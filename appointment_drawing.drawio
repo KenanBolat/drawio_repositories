@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-27T12:13:37.448Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="7xXBgKx9486mVZVPyoO0" version="20.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-27T18:34:12.175Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="06_05xaUHvC9zYn98Wzq" version="20.0.3" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="SystemArchitectureOverview">
     <mxGraphModel dx="1666" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -111,6 +111,124 @@
         </mxCell>
         <mxCell id="95hwYFbzB6x-5QBpY-l6-61" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Docker.svg;fontColor=#000000;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="10" y="490" width="50" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="o9G4jUJhHw7h6A8lvJDQ" name="KisaDonem_Conditions">
+    <mxGraphModel dx="1581" dy="915" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-8" value="KaldigimSuredeYeterli&lt;br&gt;MaddiImkanaSahibim" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="40" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-9" value="&lt;div&gt;TalepEttigimSureden&lt;/div&gt;&lt;div&gt;60GunFazlaPasaportaSahibim&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="230" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-10" value="&lt;div&gt;KamuSagligiTehditiOlan&lt;/div&gt;&lt;div&gt;HastaligimBulunmamaktadir&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="400" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-11" value="&lt;div&gt;BarinmaStandartlarinaSahibim&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="580" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-12" value="&lt;div&gt;KalacagimSureyiIceren&lt;/div&gt;&lt;div&gt;SaglikSigortamVar&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-13" value="&lt;div&gt;IkametIznimiAmac&lt;/div&gt;&lt;div&gt;DisindaKullanmayacagim&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="950" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-14" value="&lt;div&gt;CalismaIznim&lt;/div&gt;&lt;div&gt;OlmaksizinCalismayacagim&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1150" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-15" value="&lt;div&gt;FarkliAdIleSinirdisi&lt;/div&gt;&lt;div&gt;EdilmedigimiBeyanEderim&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1330" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-16" value="&lt;div&gt;AdSoyadDegistirmedigimi&lt;/div&gt;&lt;div&gt;BeyanEderim&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1530" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-17" value="&lt;div&gt;BeyanEttigimAdresteKalacagimi&lt;/div&gt;&lt;div&gt;AksiTakdirdeCezaKabulEderim&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1720" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-18" value="&lt;div&gt;VizeIhlalindenKaynaklanan&lt;/div&gt;&lt;div&gt;OdemeleriKabulEderim&lt;br&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1910" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-19" value="&lt;div&gt;Fotograf&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2100" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iqgsQZxdT32hQLZk8aDC-20" target="iqgsQZxdT32hQLZk8aDC-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-23" value="EVET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iqgsQZxdT32hQLZk8aDC-22">
+          <mxGeometry y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-20" value="&lt;div&gt;AdliSicilKaydimVar&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2320" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-21" value="&lt;div&gt;AdliSicilKaydimVar&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="2320" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iqgsQZxdT32hQLZk8aDC-24" target="iqgsQZxdT32hQLZk8aDC-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iqgsQZxdT32hQLZk8aDC-24" target="iqgsQZxdT32hQLZk8aDC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iqgsQZxdT32hQLZk8aDC-24" target="iqgsQZxdT32hQLZk8aDC-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iqgsQZxdT32hQLZk8aDC-24" target="iqgsQZxdT32hQLZk8aDC-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-34" value="EVET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iqgsQZxdT32hQLZk8aDC-33">
+          <mxGeometry x="-0.9214" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-24" value="&lt;div&gt;VatandasiOldugum&lt;/div&gt;&lt;div&gt;UlkedeIkametEdiyorum&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="2560" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-25" value="Aciklama" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="2560" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-26" value="IkametNo" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2750" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-27" value="Ulke" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="2930" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-28" value="Acik Adres" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="3120" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iqgsQZxdT32hQLZk8aDC-35" target="iqgsQZxdT32hQLZk8aDC-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-41" value="EVET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iqgsQZxdT32hQLZk8aDC-37">
+          <mxGeometry x="-0.0067" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-35" value="DahaOncedenReddedilen&lt;br&gt;VizeBasvurumBulunmaktadir" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="3370" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-36" value="Aciklama" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="3370" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" source="iqgsQZxdT32hQLZk8aDC-39" target="iqgsQZxdT32hQLZk8aDC-40" parent="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-42" value="EVET" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iqgsQZxdT32hQLZk8aDC-38">
+          <mxGeometry x="-0.18" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-39" value="DahaOncedenReddedilenIkamet&lt;br&gt;BasvurumBulunmaktadir" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="3590" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="iqgsQZxdT32hQLZk8aDC-40" value="Aciklama" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="3590" width="200" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
