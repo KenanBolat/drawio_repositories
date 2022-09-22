@@ -1,4 +1,4 @@
-<mxfile modified="2022-09-22T08:45:08.766Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="mcykdbuLfYXo8gRujYin" version="20.3.0" type="github">
+<mxfile modified="2022-09-22T08:58:58.251Z" host="app.diagrams.net" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="DTwtf-s2tLR2i1VfZtWb" version="20.3.0" type="github">
   <diagram id="l8hXMBHkgcEJcSW0mbfh" name="Page-1">
     <mxGraphModel dx="3094" dy="2059" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -310,6 +310,9 @@
         </mxCell>
         <mxCell id="G85GCYi_cauBch0uA3sk-96" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.graphics.rrect;rSize=0;strokeColor=none;fillColor=#aaddff;fontSize=7;" vertex="1" parent="G85GCYi_cauBch0uA3sk-97">
           <mxGeometry x="141.66666666666674" y="52.5" width="29.166666666666668" height="4.999999999999998" as="geometry" />
+        </mxCell>
+        <mxCell id="G85GCYi_cauBch0uA3sk-118" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.408;entryY=0.05;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;fontSize=12;endArrow=none;endFill=0;" edge="1" parent="G85GCYi_cauBch0uA3sk-117" source="G85GCYi_cauBch0uA3sk-99" target="G85GCYi_cauBch0uA3sk-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="G85GCYi_cauBch0uA3sk-99" value="Ilerleme Takip" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHZpZXdCb3g9IjAgMCA0OCA0OCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgNDggNDgiPiYjeGE7ICAgIDxnIGZpbGw9IiM0Q0FGNTAiPiYjeGE7ICAgICAgICA8cmVjdCB4PSI0MCIgeT0iMjEiIHdpZHRoPSI0IiBoZWlnaHQ9IjIzIi8+JiN4YTsgICAgICAgIDxyZWN0IHg9IjM0IiB5PSIyOCIgd2lkdGg9IjQiIGhlaWdodD0iMTYiLz4mI3hhOyAgICAgICAgPHJlY3QgeD0iMjgiIHk9IjIzIiB3aWR0aD0iNCIgaGVpZ2h0PSIyMSIvPiYjeGE7ICAgICAgICA8cmVjdCB4PSIyMiIgeT0iMjkiIHdpZHRoPSI0IiBoZWlnaHQ9IjE1Ii8+JiN4YTsgICAgICAgIDxyZWN0IHg9IjE2IiB5PSIzMiIgd2lkdGg9IjQiIGhlaWdodD0iMTIiLz4mI3hhOyAgICAgICAgPHJlY3QgeD0iMTAiIHk9IjMwIiB3aWR0aD0iNCIgaGVpZ2h0PSIxNCIvPiYjeGE7ICAgICAgICA8cmVjdCB4PSI0IiB5PSIzNCIgd2lkdGg9IjQiIGhlaWdodD0iMTAiLz4mI3hhOyAgICA8L2c+JiN4YTsgICAgPGcgZmlsbD0iIzM4OEUzQyI+JiN4YTsgICAgICAgIDxwb2x5Z29uIHBvaW50cz0iNDAuMSw5LjEgMzQsMTUuMiAzMCwxMS4yIDIwLDIxLjIgMTUsMTYuMiA0LjYsMjYuNiA3LjQsMjkuNCAxNSwyMS44IDIwLDI2LjggMzAsMTYuOCAzNCwyMC44IDQyLjksMTEuOSIvPiYjeGE7ICAgICAgICA8cG9seWdvbiBwb2ludHM9IjQ0LDggMzUsOCA0NCwxNyIvPiYjeGE7ICAgIDwvZz4mI3hhOzwvc3ZnPg==;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="G85GCYi_cauBch0uA3sk-117">
           <mxGeometry x="673" y="671" width="48" height="48" as="geometry" />
